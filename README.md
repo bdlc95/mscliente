@@ -1,4 +1,4 @@
-# ms-cliente · Microsserviço de Clientes
+# · Microsserviço de Clientes
 
 Microsserviço desenvolvido como projeto acadêmico no curso de **Desenvolvimento Back-end Java** da EBAC, simulando um ecossistema distribuído com o [ms-produto](https://github.com/bdlc95/msproduto).
 
